@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/wtftusharr" target="blank"><img src="https://img.shields.io/twitter/follow/wtftusharr?logo=twitter&style=for-the-badge" alt="wtftusharr" /></a> </p>
 
+- 😄 Pronouns [He/Him](He/Him)
+- 
 - 👩‍💻 I’m currently working on **improving my coding skills and building small projects using different technologies.**
 
 - 🧠 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Open-source projects and hackathons that aim to solve real-world problems.**
 
-- 😄 Pronouns [He/Him](He/Him)
-
 - 💬 Ask me anything **tech-related, and feel free to reach out to me for guidance and roadmaps. I'm here to help!**
 
 - 📫 How to reach me **You can connect with me on LinkedIn or Twitter. I'm always open to new opportunities and collaborations.**
 
-- 📄 Resume [https://drive.google.com/file/d/1mZ4ciPu79X30_vDnzTWF5FPWW75iYm88/view?usp=sharing](https://drive.google.com/file/d/1mZ4ciPu79X30_vDnzTWF5FPWW75iYm88/view?usp=sharing)
+- 📄 Resume [Give me an Internship 🥺](https://drive.google.com/file/d/1mZ4ciPu79X30_vDnzTWF5FPWW75iYm88/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a huge extrovert who loves meeting new people, trying out new things, and exploring life to the fullest!**
 
