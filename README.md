@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/tushar-sharma-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-sharma-it" height="40" width="50" /></a>
 <a href="https://instagram.com/the.tushar.sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.tushar.sharma" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/tusharrr_sharmaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tusharrr_sharmaaa" height="40" width="50" /></a>
-<a href="https://discord.gg/#2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2002" height="40" width="50" /></a>
+<!-- <a href="https://discord.gg/SoCiOpAtH#2233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2002" height="40" width="50" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
