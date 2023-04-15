@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/wtftusharr" target="blank"><img src="https://img.shields.io/twitter/follow/wtftusharr?logo=twitter&style=for-the-badge" alt="wtftusharr" /></a> </p>
 
 - 😄 Pronouns [He/Him](He/Him)
-- 
+
 - 👩‍💻 I’m currently working on **improving my coding skills and building small projects using different technologies.**
 
 - 🧠 I’m currently learning **MERN Stack**
