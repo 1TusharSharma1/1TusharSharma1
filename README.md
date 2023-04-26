@@ -15,7 +15,7 @@
 
 - 💬 Ask me anything **tech-related, and feel free to reach out to me for guidance and roadmaps. I'm here to help!**
 
-- 📫 How to reach me **You can connect with me on LinkedIn or Twitter. I'm always open to new opportunities and collaborations.**
+- 📫 How to reach me **You can connect with me on LinkedIn or Twitter. I'm always open to new opportunities and collaborations!**
 
 - 📄 Resume [Give me an Internship :)](https://drive.google.com/file/d/1mZ4ciPu79X30_vDnzTWF5FPWW75iYm88/view?usp=sharing)
 
