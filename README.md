@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I'm a huge extrovert who loves meeting new people, trying out new things, and exploring life to the fullest!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 💬</h3>
 <p align="left">
 <a href="https://twitter.com/wtftusharr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wtftusharr" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/tushar-sharma-it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-sharma-it" height="40" width="50" /></a>
