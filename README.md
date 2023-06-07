@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects and hackathons that aim to solve real-world problems.**
 
-- 💬 Ask me anything **tech-related, and feel free to reach out to me for guidance and roadmaps. I'm here to help!**
+- 💬 Ask me anything **tech-related, and feel free to reach out to me for guidance and roadmaps. I am here to help!**
 
 - 📫 How to reach me **You can connect with me on LinkedIn or Twitter. I'm always open to new opportunities and collaborations!**
 
