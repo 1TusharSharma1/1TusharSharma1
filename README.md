@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **You can connect with me on LinkedIn or Twitter. I'm always open to new opportunities and collaborations!**
 
-- 📄 Resume [Give me an Internship :)](https://drive.google.com/file/d/1mZ4ciPu79X30_vDnzTWF5FPWW75iYm88/view?usp=sharing)
+- 📄 Resume [Give me an Internship :)](https://drive.google.com/file/d/1SOyR1Bl6YrUmT4eB2BcFM-FHjJEs-YN8/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a huge extrovert who loves meeting new people, trying out new things, and exploring life to the fullest!**
 
